@@ -1,1 +1,1 @@
-console.log("Nganu njow");
+console.log("Selamat Datang");
